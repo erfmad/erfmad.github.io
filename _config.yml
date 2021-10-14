@@ -43,4 +43,4 @@ kramdown:
   syntax_highlighter: rouge
   
   # Permalinks
-permalink:        /:title
+#permalink:        /:title
