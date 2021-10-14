@@ -1,5 +1,5 @@
 # About
 
 
-Hi I', Erfan Majd.
+Hi I'm Erfan Majd.
 
